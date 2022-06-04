@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.QuadCurve?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controler">
+   <children>
+      <QuadCurve controlX="219.7999725341797" controlY="108.60000610351562" endX="84.59998321533203" endY="-161.0" fill="#3eff1f" layoutX="-13.0" layoutY="95.0" startX="-85.8000259399414" startY="-7.399993896484375" stroke="#fffdfd" strokeType="INSIDE" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="393.0" layoutX="420.0" layoutY="91.0" rotate="54.9" stroke="BLACK" strokeType="INSIDE" width="30.0" />
+      <Line endX="161.60000610351562" endY="169.20001220703125" layoutX="214.0" layoutY="160.0" startX="122.39999389648438" startY="196.4000244140625" />
+      <Line endX="161.60000610351562" endY="169.20001220703125" layoutX="343.0" layoutY="68.0" startX="122.39999389648438" startY="196.4000244140625" />
+      <Line endX="161.60000610351562" endY="169.20001220703125" layoutX="280.0" layoutY="112.0" startX="122.39999389648438" startY="196.4000244140625" />
+      <Line endX="161.60000610351562" endY="169.20001220703125" layoutX="403.0" layoutY="25.0" startX="122.39999389648438" startY="196.4000244140625" />
+      <Line endX="161.60000610351562" endY="169.20001220703125" layoutX="157.0" layoutY="203.0" startX="122.39999389648438" startY="196.4000244140625" />
+      <Circle fill="#1fffd1" layoutX="286.0" layoutY="186.0" radius="57.0" stroke="WHITE" strokeType="INSIDE" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1f92" height="200.0" layoutX="14.0" layoutY="143.0" stroke="BLACK" strokeType="INSIDE" width="54.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="114.0" layoutX="409.0" layoutY="102.0" stroke="#0f0d94" strokeType="INSIDE" width="54.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="133.0" layoutX="416.0" layoutY="93.0" rotate="91.0" stroke="#0095ff" strokeType="INSIDE" width="41.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#364451" height="131.0" layoutX="533.0" layoutY="244.0" stroke="BLACK" strokeType="INSIDE" width="65.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1ffff2" height="43.0" layoutX="391.0" layoutY="350.0" stroke="BLACK" strokeType="INSIDE" width="134.0" />
+      <Circle fill="DODGERBLUE" layoutX="485.0" layoutY="310.0" radius="30.0" stroke="BLACK" strokeType="INSIDE" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1fa6" height="188.0" layoutX="212.0" layoutY="181.0" rotate="124.1" stroke="BLACK" strokeType="INSIDE" width="34.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1fff96" height="43.0" layoutX="121.0" layoutY="7.0" stroke="BLACK" strokeType="INSIDE" width="65.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1f73" height="43.0" layoutX="426.0" layoutY="7.0" stroke="BLACK" strokeType="INSIDE" width="65.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff861f" height="43.0" layoutX="513.0" layoutY="7.0" stroke="BLACK" strokeType="INSIDE" width="65.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1fff7b" height="43.0" layoutX="203.0" layoutY="7.0" stroke="BLACK" strokeType="INSIDE" width="212.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#56ff1f" height="43.0" layoutX="122.0" layoutY="70.0" stroke="BLACK" strokeType="INSIDE" width="163.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#74ff1f" height="43.0" layoutX="77.0" layoutY="343.0" stroke="BLACK" strokeType="INSIDE" width="134.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1ff4ff" height="43.0" layoutX="458.0" layoutY="59.0" stroke="BLACK" strokeType="INSIDE" width="134.0" />
+      <Text layoutX="29.0" layoutY="247.0" strokeType="OUTSIDE" strokeWidth="0.0" text="GB 1" />
+      <Text layoutX="160.0" layoutY="94.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PERPUSTAKAAN" />
+      <Text layoutX="134.0" layoutY="33.0" strokeType="OUTSIDE" strokeWidth="0.0" text="GB 2" />
+      <Text layoutX="289.0" layoutY="33.0" strokeType="OUTSIDE" strokeWidth="0.0" text="GSG" />
+      <Text layoutX="446.0" layoutY="33.0" strokeType="OUTSIDE" strokeWidth="0.0" text="GB 3" />
+      <Text layoutX="533.0" layoutY="33.0" strokeType="OUTSIDE" strokeWidth="0.0" text="GB 4" />
+      <Text layoutX="513.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0" text="GB 5" />
+      <Text layoutX="407.0" layoutY="164.0" strokeType="OUTSIDE" strokeWidth="0.0" text="REKTORAT" />
+      <Text layoutX="124.0" layoutY="369.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Dorm 1" />
+      <Text layoutX="435.0" layoutY="376.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Dorm 1" />
+      <Text layoutX="545.0" layoutY="314.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Dorm 1" />
+      <Text layoutX="209.0" layoutY="279.0" rotate="24.4" strokeType="OUTSIDE" strokeWidth="0.0" text="GB 6" />
+      <Text layoutX="16.0" layoutY="54.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Universitas ABC" />
+      <Text fill="RED" layoutX="170.0" layoutY="127.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Perpustakaan " />
+      <Circle fill="#ff1f28" layoutX="160.0" layoutY="122.0" radius="5.0" stroke="BLACK" strokeType="INSIDE" />
+      <Text fill="RED" layoutX="186.0" layoutY="142.0" strokeType="OUTSIDE" strokeWidth="0.0" text="300" />
+      <Circle fill="#ff1f28" layoutX="77.0" layoutY="200.0" radius="5.0" stroke="BLACK" strokeType="INSIDE" />
+      <Text fill="RED" layoutX="86.0" layoutY="205.0" strokeType="OUTSIDE" strokeWidth="0.0" text="GB1" />
+      <Text fill="RED" layoutX="87.0" layoutY="221.0" strokeType="OUTSIDE" strokeWidth="0.0" text="500" />
+      <Circle fill="#ff1f28" layoutX="299.0" layoutY="295.0" radius="5.0" stroke="BLACK" strokeType="INSIDE" />
+      <Text fill="RED" layoutX="316.0" layoutY="292.0" strokeType="OUTSIDE" strokeWidth="0.0" text="GB6" />
+      <Text fill="RED" layoutX="317.0" layoutY="306.0" strokeType="OUTSIDE" strokeWidth="0.0" text="700" />
+   </children>
+</AnchorPane>
